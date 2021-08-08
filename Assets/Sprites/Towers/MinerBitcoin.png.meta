@@ -1,0 +1,1268 @@
+fileFormatVersion: 2
+guid: 09d48014027fbcc4c998a7cdbda10dda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: MinerBitcoin_0
+  - first:
+      213: 21300002
+    second: MinerBitcoin_1
+  - first:
+      213: 21300004
+    second: MinerBitcoin_2
+  - first:
+      213: 21300006
+    second: MinerBitcoin_3
+  - first:
+      213: 21300008
+    second: MinerBitcoin_4
+  - first:
+      213: 21300010
+    second: MinerBitcoin_5
+  - first:
+      213: 21300012
+    second: MinerBitcoin_6
+  - first:
+      213: 21300014
+    second: MinerBitcoin_7
+  - first:
+      213: 21300016
+    second: MinerBitcoin_8
+  - first:
+      213: 21300018
+    second: MinerBitcoin_9
+  - first:
+      213: 21300020
+    second: MinerBitcoin_10
+  - first:
+      213: 21300022
+    second: MinerBitcoin_11
+  - first:
+      213: 21300024
+    second: MinerBitcoin_12
+  - first:
+      213: 21300026
+    second: MinerBitcoin_13
+  - first:
+      213: 21300028
+    second: MinerBitcoin_14
+  - first:
+      213: 21300030
+    second: MinerBitcoin_15
+  - first:
+      213: 21300032
+    second: MinerBitcoin_16
+  - first:
+      213: 21300034
+    second: MinerBitcoin_17
+  - first:
+      213: 21300036
+    second: MinerBitcoin_18
+  - first:
+      213: 21300038
+    second: MinerBitcoin_19
+  - first:
+      213: 21300040
+    second: MinerBitcoin_20
+  - first:
+      213: 21300042
+    second: MinerBitcoin_21
+  - first:
+      213: 21300044
+    second: MinerBitcoin_22
+  - first:
+      213: 21300046
+    second: MinerBitcoin_23
+  - first:
+      213: 21300048
+    second: MinerBitcoin_24
+  - first:
+      213: 21300050
+    second: MinerBitcoin_25
+  - first:
+      213: 21300052
+    second: MinerBitcoin_26
+  - first:
+      213: 21300054
+    second: MinerBitcoin_27
+  - first:
+      213: 21300056
+    second: MinerBitcoin_28
+  - first:
+      213: 21300058
+    second: MinerBitcoin_29
+  - first:
+      213: 21300060
+    second: MinerBitcoin_30
+  - first:
+      213: 21300062
+    second: MinerBitcoin_31
+  - first:
+      213: 21300064
+    second: MinerBitcoin_32
+  - first:
+      213: 21300066
+    second: MinerBitcoin_33
+  - first:
+      213: 21300068
+    second: MinerBitcoin_34
+  - first:
+      213: 21300070
+    second: MinerBitcoin_35
+  - first:
+      213: 21300072
+    second: MinerBitcoin_36
+  - first:
+      213: 21300074
+    second: MinerBitcoin_37
+  - first:
+      213: 21300076
+    second: MinerBitcoin_38
+  - first:
+      213: 21300078
+    second: MinerBitcoin_39
+  - first:
+      213: 21300080
+    second: MinerBitcoin_40
+  - first:
+      213: 21300082
+    second: MinerBitcoin_41
+  - first:
+      213: 21300084
+    second: MinerBitcoin_42
+  - first:
+      213: 21300086
+    second: MinerBitcoin_43
+  - first:
+      213: 21300088
+    second: MinerBitcoin_44
+  - first:
+      213: 21300090
+    second: MinerBitcoin_45
+  - first:
+      213: 21300092
+    second: MinerBitcoin_46
+  - first:
+      213: 21300094
+    second: MinerBitcoin_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MinerBitcoin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8008706ff663114ea341e1bc172aa3e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_1
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2520
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd72b7c8ff780343852b04fc32f2de0
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_2
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2520
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d297f6ba34ad16541a9de27ce869e083
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_3
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2520
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f75f233e637fcd44bef681602b1f8b7
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_4
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2520
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13be66fa3293e574d8d6cab6bdc877cd
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819d4d4f96cec0a4785b77358d28f705
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_6
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2240
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0850695235cc44b4c99b2fc5a2a0187c
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_7
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2240
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8505d7da2874e14b9dee35e7d196c84
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_8
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2240
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77f53f11d2fa5849874485dbd39b18c
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_9
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2240
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e536d025fb9a0478e6dee9c26f8510
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e3d4f16cbf9af4bb7533fc8c1f3fb1
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_11
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1960
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b494b58c70262754e84b291b20202bfb
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_12
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1960
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9cc56e9f5a96347ab75dd1633ba078
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_13
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1960
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf3e09634c58ba428b60e80b8bad7cf
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_14
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1960
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d5c041b8eaa56408b6986773162acb
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bea74d72fd23047a1b9938fc3ad57e
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_16
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1680
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ba58437458e384ab62ef1730215c09
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_17
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1680
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b7a9e43bfdc44429a761320735cb93
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_18
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1680
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f5d5e1c348b1408c8acdca5c5f556
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_19
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1680
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cac3abcc51a3845b1b1752f8cf0a12
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a72c932de8cc54aa4a2f60046e73b7
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_21
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1400
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf793423e1b5ed439b39fab36625d0a
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_22
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1400
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da4bff8e66098b4c8e384ff7944dfaf
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_23
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1400
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2086801f52a047438c8ed1f21d2e757
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_24
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1400
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56166b65069639e45816f46900acfbd1
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d07ad0eb52b9e042be60f9e08072695
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_26
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1120
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8848eeb2303814449103f5c807c7363
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_27
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1120
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08f8a836ad77c34db4ea99582cde819
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_28
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1120
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cd6c1dc52370249b5531079700ead8
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_29
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1120
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef7b1e4da431fb46a10cb2d58c4d4a0
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b7174321edd45458968ff819ae8e4a
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_31
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 840
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f1f78fe565e234cb5e42b4001a6b4b
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_32
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 840
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd05e97aedcaf246a16df3b4fc9ce01
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_33
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 840
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29bc7958e006974591587a04725ae53
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_34
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 840
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37e4cec14dfb4042bda581ba838fb04
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce6356c5c289a2489d7205a91595b98
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_36
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 560
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25748d8807eedbf47ac3c1abd4f70d7b
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_37
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 560
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adaf578681dad04794832b14a21f9b9
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_38
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 560
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a70ad12f9d95554f8143fe85807514f
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_39
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 560
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e066b6396432de419d4ccba90706f51
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66bf29f95d0a9c4580c3f8187d30a9e
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_41
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 280
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b687f2196b9f57b4386f90d419acf4b6
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_42
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 280
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7036ac5e94132624db0fcc0aa5d5af1d
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_43
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 280
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d88b3898464c2344ba326a369faec54
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_44
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 280
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff747b8c52828e4a853e3783e0409a8
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd44bb15a9457b4baa9fdae99fe6d5b
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_46
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d0520519b264d48a40d0e509523edc
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinerBitcoin_47
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 0
+        width: 497.8
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98f65b522673fb4db790d0dc831f14b
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1dcb78e53323ad742a2a3fd28ce64027
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17748e29a40d4244e916d9636d9bc98a, type: 3}
+  m_Name: Frogg_monowheel
+  m_EditorClassIdentifier: 
+  Speed: 1
+  Health: 1
+  Icon: {fileID: 21300000, guid: e8955906fb3a4e843803cca7bcd346e1, type: 3}
+  Animation: {fileID: 9100000, guid: dc290acda2024c747b4fc4fb6679194e, type: 2}
+  Damage: 10
+  Explosion: {fileID: 3281004352971306062, guid: 32ee4036bee43cc4d8154560a602b8f4,
+    type: 3}
+  BackFlip: {fileID: 9100000, guid: dfcf0cd485a78f24cb9380377280b96f, type: 2}
